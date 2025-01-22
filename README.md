@@ -1,5 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/axpepi8Q)
-
 Files in the repository: 
 normalize_text.py - The python program that will you will be executing.
 bible.txt - The given txt file that will be normalized. You can import your own txt file if you want to use it.
@@ -20,6 +18,6 @@ An example would be:
 $ python normalize_text.py bible.txt --lowercasing --removal_of_punctuation --lemmatization --stemming --removal_of_stopwords
 
 To set up, simply clone the repository onto your device with the following command in the terminal: 
-$ git clone https://github.com/4NL3-Winter-2025/homework-assignment-1-stanleychenly.git
+$ git clone https://github.com/stanleychenly/TextNormalizer.git
 
 Make sure you have python installed.
